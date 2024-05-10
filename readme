@@ -1,0 +1,10 @@
+Crie um Web Component que represente um botao personalizado, com diferentes ˜
+cores e tamanhos.
+index.html
+custom-button.js
+
+
+Crie um Web Component para alterar o tema da pagina (claro/escuro)
+
+tema.html
+theme-toggle.js
